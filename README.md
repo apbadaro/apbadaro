@@ -1,24 +1,39 @@
-# Hello, World! 🖖🏻  
+# Hello, World! 🖖🏻   
 
-**Aspiring Backend Developer**  
-[email](mailto:badaro_ap@proton.me) | [linkedin](https://linkedin.com/in/apbadaro) | [cv](https://apbadaro.tiiny.site)  
+**Aspiring Back-End Developer | Experienced Audiovisual Translator**  
+[email](mailto:badaro_ap@proton.me) | [linkedin](https://linkedin.com/in/apbadaro) | [cv](https://apbadaro.github.io/cv/)   
 
----
-<img align="right" src="https://github.com/user-attachments/assets/bf5b27b6-19a4-4fa0-9e75-e8971bc7a6f8" width="400">
+---  
 
-I’m Ana Paula, a **seasoned subtitler and quality control specialist** with **15 years of experience** in audiovisual translation and workflow optimization for global media platforms. Over the years, I’ve contributed to high-quality subtitling projects for streaming giants like Netflix, Amazon Prime, and Disney+, working with talented teams to ensure linguistic consistency and cultural accuracy.  
+<img align="right" src="https://github.com/user-attachments/assets/bf5b27b6-19a4-4fa0-9e75-e8971bc7a6f8" width="350">  
 
-While I continue to work in subtitling and QC, my passion is driving me towards the **technical side of localization**, focusing on **backend technologies**. I'm learning **Python**, **Django**, and **Java**, and exploring how these technologies can optimize localization workflows, particularly in **AI-driven solutions** and **automation**.  
+After 15 years mastering the precision and structure of **audiovisual translation**, I'm applying my analytical mindset and attention to detail to a new challenge: **back-end development**.
 
-My ultimate goal is to combine my strong background in localization with my growing technical skills to help **shape the future of localization backend systems**, ensuring that the process is as efficient, scalable, and tech-forward as possible.
+My experience navigating complex linguistic systems has provided me with a strong foundation for working with programming languages like **Python**, **JavaScript**, and **Java**.
 
-### Current Learning Path
-- **Technologist in Systems Analysis and Development:** *Basic FrontEnd Certificate (Ongoing)*  
+I'm currently mastering programming fundamentals through CS50's Python course and college studies, approaching code with the same attention to detail that defined my translation work.  
+
+
+### Current Learning Path  
+- **Technologist in Systems Analysis and Development**  
+  - ✅ **[Basic FrontEnd](https://certificados.descomplica.com.br/graduacao/0957c74b3b2eca10b72d1744dd1d3e051b03a1a122be7150e94d3302cd3c185c)** *(Completed with distinction – 10/10 in all subjects)*  
+  - **Upcoming microcertifications:**  
+    - Programmer (*Ongoing*)  
+    - Object-Oriented Developer  
+    - Backend Developer  
+    - Frontend Developer  
+    - Full Stack Developer  
+    - DevOps Strategist  
+    - Full Cycle Developer  
+    - Smart Manager  
+    - Advanced Tester  
+
 - **CS50’s Introduction to Programming with Python**  
 
-Feel free to reach out if you’re interested in discussing **backend development**, **localization technology**, or **AI-driven solutions** in tech! 😊
+I'm always open to new opportunities and connections—feel free to reach out! 😊  
 
----
+---  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,django,git,github,vscode,html,css,markdown,ai" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,django,git,github,vscode,html,css,markdown" />
 </p>
