@@ -26,14 +26,16 @@ I'm currently mastering programming fundamentals through CS50's Python course an
     - DevOps Strategist  
     - Full Cycle Developer  
     - Smart Manager  
-    - Advanced Tester  
+    - Advanced Tester
+   
+- **Bootcamp Desenvolvimento Back-End com Java e Spring** ([repo](https://github.com/apbadaro/bootcamp-java-spring-matera))  
 
-- **CS50’s Introduction to Programming with Python**  
+- **CS50’s Introduction to Programming with Python**  ([repo](https://github.com/apbadaro/cs50-python-pset-solutions))
 
 I'm always open to new opportunities and connections—feel free to reach out! 😊  
 
 ---  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,django,git,github,vscode,html,css,markdown" />
+  <img src="https://skillicons.dev/icons?i=apple,python,django,java,maven,spring,javascript,nodejs,git,github,vscode,idea,html,bootstrap,markdown" />
 </p>
