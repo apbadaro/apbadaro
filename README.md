@@ -1,4 +1,4 @@
-# Hello, World! 🖖🏻   
+# `print("Hello, World! 🖖🏻")`
 
 **Aspiring Back-End Developer | Experienced Audiovisual Translator**  
 [email](mailto:badaro_ap@proton.me) | [linkedin](https://linkedin.com/in/apbadaro) | [cv](https://apbadaro.github.io/cv/)   
@@ -37,5 +37,5 @@ I'm always open to new opportunities and connections—feel free to reach out! �
 ---  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,python,django,java,maven,spring,javascript,nodejs,git,github,vscode,idea,html,bootstrap,markdown" />
+  <img src="https://skillicons.dev/icons?i=apple,python,django,java,maven,spring,javascript,nodejs,git,github,vscode,idea,markdown" />
 </p>
