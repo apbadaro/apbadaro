@@ -1,11 +1,11 @@
 # 👋 Hello, I’m Ana Paula
 
+<img align="right" src="https://github.com/user-attachments/assets/bf5b27b6-19a4-4fa0-9e75-e8971bc7a6f8" width="300" />
+
 **Aspiring Back-End Developer · Experienced Audiovisual Translator and QCer**  
 📫 [apbadaro@icloud.com](mailto:apbadaro@icloud.com)  · 🔗 [LinkedIn](https://linkedin.com/in/apbadaro) · 💼 [Résumé](https://apbadaro.github.io/cv/)  
 
 ---
-
-<img align="right" src="https://github.com/user-attachments/assets/bf5b27b6-19a4-4fa0-9e75-e8971bc7a6f8" width="300" />
 
 After 15 years crafting precise and engaging subtitles, I’m channeling my analytical mindset and attention to detail into back-end development. Currently, I’m deepening my skills in **Java**, **Spring Boot**, **Python** and **RESTful APIs** through a mix of university courses, bootcamps and hands-on projects.
 
