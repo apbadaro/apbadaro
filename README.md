@@ -15,9 +15,9 @@ After 15 years crafting precise and engaging subtitles, I’m channeling my anal
 
 - **Technologist Degree in Systems Analysis & Development**  
 *Centro Universitário Descomplica, 2025–2027*
-  - ✅ **[Basic FrontEnd](https://certificados.descomplica.com.br/graduacao/0957c74b3b2eca10b72d1744dd1d3e051b03a1a122be7150e94d3302cd3c185c)** *(Completed with distinction – 10/10 in all subjects)*  
+  - ✅ **[Basic FrontEnd](https://certificados.descomplica.com.br/graduacao/0957c74b3b2eca10b72d1744dd1d3e051b03a1a122be7150e94d3302cd3c185c)** *(Completed with distinction – 10/10 in all subjects)*
+  - ✅ **[Programmer](https://certificados.descomplica.com.br/graduacao/d0aaca29c7b8c9fcf4ef3e5c43a5c9c64ca9428390e2075589a384b4edc63eb1)** *(Completed with distinction – 10/10 in all subjects)*
   - **Upcoming microcertifications:**  
-    - Programmer (*Ongoing*)  
     - Object-Oriented Developer  
     - Backend Developer  
     - Frontend Developer   
